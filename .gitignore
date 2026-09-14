@@ -1,0 +1,27 @@
+# Frontend
+node_modules/
+.next/
+out/
+dist/
+
+# Backend
+target/
+*.class
+*.log
+
+# Variáveis de ambiente e informações privadas
+.env
+.env.*
+!.env.example
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
